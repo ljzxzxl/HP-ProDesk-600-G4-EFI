@@ -19,14 +19,19 @@ HP ProDesk 600 G4 Hackintosh EFI 惠普ProDesk600黑苹果EFI文件
 
 #### 相关截图：
 ![ludashi.jpg][2]
-![20200521112853.jpg][3]
-![20200521112342.png][4]
-![20200521114400.jpg][5]
-![20200521114406.jpg][6]
+![1.jpg][3]
+![2.jpg][4]
+![20200521112853.jpg][5]
+![20200521112342.png][6]
+![20200521114400.jpg][7]
+![20200521114406.jpg][8]
 
-  [1]: https://xeylon.com/apple/360.html
+
+  [1]: https://github.com/ljzxzxl/HP-ProDesk-600-G4-EFI
   [2]: https://xeylon.com/usr/uploads/2020/06/2817633215.jpg
-  [3]: https://xeylon.com/usr/uploads/2020/05/1539881355.jpg
-  [4]: https://xeylon.com/usr/uploads/2020/05/2157561766.png
-  [5]: https://xeylon.com/usr/uploads/2020/05/120295901.jpg
-  [6]: https://xeylon.com/usr/uploads/2020/05/3665084680.jpg
+  [3]: https://xeylon.com/usr/uploads/2020/06/3044480390.jpg
+  [4]: https://xeylon.com/usr/uploads/2020/06/205225495.jpg
+  [5]: https://xeylon.com/usr/uploads/2020/05/1539881355.jpg
+  [6]: https://xeylon.com/usr/uploads/2020/05/2157561766.png
+  [7]: https://xeylon.com/usr/uploads/2020/05/120295901.jpg
+  [8]: https://xeylon.com/usr/uploads/2020/05/3665084680.jpg
